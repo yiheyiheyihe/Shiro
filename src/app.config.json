@@ -27,7 +27,7 @@
         "name": "更多",
         "links": [
           {
-            "name": "时间线",
+            "name": "线",
             "href": "/timeline"
           },
           {
@@ -92,7 +92,7 @@
           },
           {
             "type": "h1",
-            "text": "👋。",
+            "text": "👋Rain。",
             "class": "font-light text-4xl"
           },
           {
